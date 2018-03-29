@@ -45,7 +45,7 @@ git fetch + git mergeの動作をしている。
 ## git init
 gitでバージョン管理を開始する
 
-## git cherry pick
+## git cherry-pick
 他ブランチの特定のコミットを取り込む
 
 ## git log
