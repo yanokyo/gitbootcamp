@@ -43,3 +43,6 @@ git fetch + git mergeの動作をしている。
 
 ## git init
 gitでバージョン管理を開始する
+
+## git pull --rebase
+最新の情報を取得し、margeコミットを作らずにローカルリポジトリに取り込む。
