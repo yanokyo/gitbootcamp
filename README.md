@@ -45,5 +45,11 @@ git fetch + git mergeの動作をしている。
 ## git init
 gitでバージョン管理を開始する
 
+<<<<<<< HEAD
 ## git log
 そのリポジトリでのコミットを新しい順に表示する
+=======
+## git cherry pick
+他ブランチの特定のコミットを取り込む
+
+>>>>>>> d6d0cd889073c38700925d59d0b5363d9ffb2bee
