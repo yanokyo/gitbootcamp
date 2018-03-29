@@ -22,3 +22,6 @@ git fetch + git mergeの動作をしている。
 
 ## git stash
 作業中の内容を退避させる
+
+## git fetch --all
+すべてのリモートブランチをfetchする
