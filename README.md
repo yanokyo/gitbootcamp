@@ -26,3 +26,7 @@ git fetch + git mergeの動作をしている。
 
 ## git fetch --all
 すべてのリモートブランチをfetchする
+
+## git commit -amend
+コミットをやり直すことができる。
+コミットメッセージを修正するのに利用できる。
