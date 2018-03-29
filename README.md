@@ -23,3 +23,7 @@ git fetch + git mergeの動作をしている。
 
 ## git stash
 作業中の内容を退避させる
+
+## git commit -amend
+コミットをやり直すことができる。
+コミットメッセージを修正するのに利用できる。
