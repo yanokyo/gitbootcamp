@@ -44,3 +44,6 @@ git fetch + git mergeの動作をしている。
 
 ## git init
 gitでバージョン管理を開始する
+
+## git log
+そのリポジトリでのコミットを新しい順に表示する
