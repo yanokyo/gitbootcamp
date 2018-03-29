@@ -24,11 +24,17 @@ git fetch + git mergeの動作をしている。
 ## git stash
 作業中の内容を退避させる
 
+## git fetch --all
+すべてのリモートブランチをfetchする
+
 ## git commit -amend
 コミットをやり直すことができる。
 コミットメッセージを修正するのに利用できる。
+<<<<<<< HEAD
 
 ## git commit
 ステージングエリアに追加された対象ファイルがコミットされる
 
 
+=======
+>>>>>>> db46d05e3d6e142a1ae7680bffb895930cc695f1
